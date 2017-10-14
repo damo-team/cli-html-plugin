@@ -1,27 +1,24 @@
 {
-    "name": "@damo/cli-html-plugin",
-    "version": "0.0.1",
+    "name": "damo-cli-html-plugin",
+    "version": "0.0.2",
     "main": "index.js",
     "author": "baqian <st403471258@gmail.com>",
     "description": "Webpack插件，编译html文件并注入静态脚本文件",
     "keywords": [
       "damo",
-      "redux",
-      "webpack",
-      "react",
-      "starter"
+      "cli",
+      "webpack"
     ],
-    "homepage": "https://github.com/baqian/damo-team/cli-html-plugin",
+    "homepage": "https://github.com/damo-team/cli-html-plugin",
     "dependencies": {
         "html-webpack-plugin": "1.6.2",
         "lodash": "^3.10.0"
     },
     "devDependencies": {
-      
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/baqian/damo-team/cli-html-plugin.git"
+      "url": "https://github.com/damo-team/cli-html-plugin.git"
     },
     "readmeFilename": "README.md",
     "maintainers": [
@@ -31,7 +28,7 @@
       }
     ],
     "bugs": {
-      "url": "https://github.com/baqian/damo-team/cli-html-plugin/issues"
+      "url": "https://github.com/damo-team/cli-html-plugin/issues"
     },
     "license": "MIT"
   }
